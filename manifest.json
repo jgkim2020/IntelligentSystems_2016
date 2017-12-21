@@ -1,0 +1,15 @@
+{
+    "name": "com.ubuntu.developer.username.project4",
+    "description": "description of project4",
+    "framework": "ubuntu-sdk-14.04-qml",
+    "architecture": "all",
+    "title": "project4",
+    "hooks": {
+        "project4": {
+            "apparmor": "project4.json",
+            "desktop": "project4.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": ""
+}
